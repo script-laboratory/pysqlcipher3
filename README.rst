@@ -1,3 +1,9 @@
+[note]
+Just added pr-38 of rigglemania/pysqlcipher3 to enable build with python 3.12 or later. No other changes.
+
+
+
+
 pysqlcipher3
 ============
 
